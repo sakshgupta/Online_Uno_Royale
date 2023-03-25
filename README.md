@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://uno-royale.herokuapp.com/">Live Demo</a> ·
-  <a href="https://github.com/sakshgupta/online_uno_royale/issues">Report Bug</a> ·
-  <a href="https://github.com/sakshgupta/online_uno_royale/issues">Request Feature</a>
+  <a href="https://google.com" target="_blank">Live Demo</a> ·
+  <a href="https://github.com/sakshgupta/online_uno_royale/issues" target="_blank">Report Bug</a> ·
+  <a href="https://github.com/sakshgupta/online_uno_royale/issues" target="_blank">Request Feature</a>
 </p>
 
 <p align="center">
