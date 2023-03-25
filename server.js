@@ -74,8 +74,8 @@ if (process.env.NODE_ENV === "production") {
     });
 }
 
-app.get("*", (req, res) => {
-    res.send("Server Running");
+app.get("/", (req, res) => {
+    res.send(`Server running on port ${PORT}`);
 })
 
 server.listen(PORT, () => {
