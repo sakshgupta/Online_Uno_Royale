@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://google.com" target="_blank">Live Demo</a> ·
+  <a href="https://online-uno-royale.vercel.app/" target="_blank">Live Demo</a> ·
   <a href="https://github.com/sakshgupta/online_uno_royale/issues" target="_blank">Report Bug</a> ·
   <a href="https://github.com/sakshgupta/online_uno_royale/issues" target="_blank">Request Feature</a>
 </p>
