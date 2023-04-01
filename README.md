@@ -36,9 +36,15 @@ UNO ROYALE is a two-player online version of the game built with React, Socket.I
 ## 🧐 How to Play?
 
 1. Once you're on the homepage of the game, you can either host a new game or join a friend's game.
-2. To host a new game, click on CREATE GAME. A game code will be generated which you can share with your friend.
-3. To join a friend's game, enter the game code given by them and click on JOIN GAME.
+2. To host a new game, click on CREATE GAME. A game code will be generated which you can share with your friend. You can also send the link of the game by clicking on the SHARE button.
+3. To join a friend's game, enter the game code given by them or click on the link shared by the host and click on JOIN GAME.
 4. That's it! Enjoy the game and remember, no toxicity!
+<br>
+
+**Note**: If you're playing on a mobile device, you can click on the three dots on the top right of your browser and select "Desktop site" to access the game.
+<br>
+
+<img src="https://i.ibb.co/34K9QH7/phone.jpg" height="500" alt="phone" border="0">
 
 ## 🎮 Screenshots
 
